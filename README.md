@@ -1,4 +1,4 @@
-# ROLE nginx-reverse proxu
+# ROLE _TEMPLATE
 
 A brief description of the role goes here.
 
