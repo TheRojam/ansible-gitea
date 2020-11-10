@@ -1,4 +1,4 @@
-# ROLE _TEMPLATE
+# ROLE gitea 
 
 A brief description of the role goes here.
 
@@ -37,32 +37,10 @@ passed in as parameters) is always nice for users too:
     roles:
        - { role: _role-name }
 ```
-## Tips / Scripts
-
-### script to clone tmple into new role
-there are some scripts that you can use to create a fresh role from this template
-to create a fresh role and cloning this repo just use
-tmpl2role.sh <rolename>
-```
-$ sh -c "$(wget https://gogs.sportresult.com/itsdeploy/admin-scripts/raw/new-scripts/tmpl2role.sh -O -) <rolename>"
-```
-### script to change tmpl afte cloning into new role
-
-if you have already downloaded this tmpl just use
-change-tmpl2role.sh <rolename>
-```
-$ sh -c "$(wget https://gogs.sportresult.com/itsdeploy/admin-scripts/raw/new-script/change-tmpl2role.sh -O -) <rolename>"
-```
-
-
-## License
-
-SGS - internal use
-
 
 ## Author Information
 
 Role was written by:
 
-* SGS
+* Anton Mueller <git@am-news.eu> 
 
