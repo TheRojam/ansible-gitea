@@ -20,6 +20,6 @@ galaxy_info:
       - "MIT"
   tags:
       - git
-      - gitea 
+      - gitea
   repository: "https://github.com/TheRojam/ansible-gitea"
   galaxy_tags: []
