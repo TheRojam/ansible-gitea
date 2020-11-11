@@ -16,4 +16,10 @@ galaxy_info:
       versions:
         - 7
         - 9
+  license:
+      - "MIT"
+  tags:
+      - git
+      - gitea 
+  repository: "https://github.com/TheRojam/ansible-gitea"
   galaxy_tags: []
